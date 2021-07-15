@@ -3,6 +3,8 @@ You can find the accompanying code for my tutorial videos on YouTube by searchin
 This repository is provided as a resource for acedemics, artists, coders and others who may be interested in coding procedures for creating
 generative art.  These are all free to use, copy, distribute and modify.  
 
+To access the code directly, use the p5.js editor.  Visit my account and access my sketches here:
+https://editor.p5js.org/EdCavett/sketches
 
 Artist's Biography:
 I've been coding since the mid 1980's as a hobby.  I was making generative art before it really even had a name.  Decades later,
